@@ -1,1 +1,10 @@
 @charset("utf-8");
+
+
+header.site-banner {
+    background-color: #eceff4;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
